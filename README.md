@@ -114,7 +114,11 @@ To help **Baskit** gain deeper insights into their top customers, delivery perfo
 5. All sheets are interconnected; changes in inputs (e.g., customer category) will auto-update the analysis.
 
 ---
+## 📸 Dashboard Preview
 
+![Dashboard Preview](https://github.com/Payel514/Payel_Baskit_Customer_Segmentation/blob/main/Dashboard_Preview.png)
+
+---
 ## 📈 Sample Use Cases
 
 - **Business Analysts** looking to implement RFM segmentation using Excel.
