@@ -1,4 +1,4 @@
-# 🛒 Payel_Baskit_Customer_Segmentation
+# 🛒 Baskit_Customer_Segmentation
 
 This repository contains a comprehensive Excel-based business analytics project for **Baskit**, a premium delivery service based in Bangalore. The project includes full-scale data cleaning, item-level analysis, RFM-based customer segmentation, feedback diagnostics, and dynamic dashboards — all implemented using Microsoft Excel with advanced formula logic and automation features.
 
